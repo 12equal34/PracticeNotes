@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Csharp.DataStructure;
 
-
 public class Stack<T>
 {
     /***********************************
@@ -40,7 +39,7 @@ public class Stack<T>
     }
 
     class Entry
-    {
+    {   // = {T,Entry{T,Entry{T,...}}}
         public Entry Next { get; set; }
         public T Data { get; set; }
 
