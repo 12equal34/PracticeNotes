@@ -4,6 +4,10 @@
         "vector": "cpp",
         "utility": "cpp",
         "iostream": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "istream": "cpp",
+        "xstring": "cpp",
+        "stdexcept": "cpp",
+        "ios": "cpp"
     }
 }

@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch1 - Vector Algebra", "Ch1 - Vector Algebra\Ch1 - Vector Algebra.vcxproj", "{0F0CB556-698B-465A-B03F-C0444DC57D04}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{25B9034C-AA18-4194-B35D-DBC97C7DFAC6}"
 	ProjectSection(SolutionItems) = preProject
 		Common\Camera.cpp = Common\Camera.cpp
@@ -42,14 +40,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0F0CB556-698B-465A-B03F-C0444DC57D04}.Debug|x64.ActiveCfg = Debug|x64
-		{0F0CB556-698B-465A-B03F-C0444DC57D04}.Debug|x64.Build.0 = Debug|x64
-		{0F0CB556-698B-465A-B03F-C0444DC57D04}.Debug|x86.ActiveCfg = Debug|Win32
-		{0F0CB556-698B-465A-B03F-C0444DC57D04}.Debug|x86.Build.0 = Debug|Win32
-		{0F0CB556-698B-465A-B03F-C0444DC57D04}.Release|x64.ActiveCfg = Release|x64
-		{0F0CB556-698B-465A-B03F-C0444DC57D04}.Release|x64.Build.0 = Release|x64
-		{0F0CB556-698B-465A-B03F-C0444DC57D04}.Release|x86.ActiveCfg = Release|Win32
-		{0F0CB556-698B-465A-B03F-C0444DC57D04}.Release|x86.Build.0 = Release|Win32
 		{36CB82A1-3831-473A-B805-8FF6B87E3FA7}.Debug|x64.ActiveCfg = Debug|x64
 		{36CB82A1-3831-473A-B805-8FF6B87E3FA7}.Debug|x64.Build.0 = Debug|x64
 		{36CB82A1-3831-473A-B805-8FF6B87E3FA7}.Debug|x86.ActiveCfg = Debug|Win32
